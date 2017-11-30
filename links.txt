@@ -12,3 +12,9 @@ Agile software development
 From Wikipedia, the free encyclopedia
 https://en.wikipedia.org/wiki/Agile_software_development
 
+Manifesto for agile software development
+https://en.wikipedia.org/wiki/Agile_software_development#The_Agile_Manifesto
+
+Manifesto for Agile Software Development
+http://agilemanifesto.org/
+
