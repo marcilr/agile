@@ -1,0 +1,17 @@
+agile.txt
+Created Thu Nov 30 09:22:08 AKST 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Agile software development describes a set of values and principles
+for software development under which requirements and solutions
+evolve through the collaborative effort of self-organizing
+cross-functional teams.
+--wikipedia
+
+
+Links
+=====
+Agile software development
+From Wikipedia, the free encyclopedia
+https://en.wikipedia.org/wiki/Agile_software_development
