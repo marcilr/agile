@@ -1,0 +1,20 @@
+books.txt
+Created Thu Nov 30 09:33:34 AKST 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Agile related books
+
+
+Books
+=====
+Agile Team Training Camp - Agail Certified Professional 
+Participant Guide
+TEKsystems
+Education Services
+Copyright: 2017 TEKSystems Global Services, LLC
+20750 Civic Centrer Drive
+Suite 310, Oakland Commons II
+Southfield, MI 48076
+Pages: 251
+Book from GCI Agile training
