@@ -1,0 +1,93 @@
+user-stories.txt
+Created Thu Nov 30 10:55:26 AKST 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+User Stories
+
+
+User stories are part of an agile approach that helps shift
+the focus from writing about requirements to talking about
+them. All agile user stories include a written sentence or
+two and, more importantly, a series of conversations about
+the desired functionality.
+
+
+What is a user story?
+=====================
+User stories are short, simple descriptions of a feature
+told from the perspective of the person who desires the
+new capability, usually a user or customer of the system.
+They typically follow a simple template:
+
+As a < type of user >, I want < some goal > so that < some reason >.
+
+User stories are often written on index cards or sticky notes,
+stored in a shoe box, and arranged on walls or tables to facilitate
+planning and discussion.  As such, they strongly shift the focus
+from writing about features to discussing them.  In fact, these
+discussions are more important than whatever text is written.
+
+
+Can you show some user story examples?
+======================================
+One of the benefits of agile user stories is that they can be written
+at varying levels of detail.  We can write a user story to cover large
+amounts of functionality.  These large user stories are generally known
+as epics.  Here is an epic agile user story example from a desktop
+backup product:
+
+o As a user, I can backup my entire hard drive.
+
+Because an epic is generally too large for an agile team to complete in
+one iteration, it is split into multiple smaller user stories before it
+is worked on.  The epic above could be split into dozens (or possibly
+hundreds), including these two:
+
+o As a power user, I can specify files or folders to backup based on
+  file size, date created and date modified.
+
+o As a user, I can indicate folders not to backup so that my backup
+  drive isn't filled up with things I don't need saved.
+
+
+How is detail added to user stories?
+====================================
+Detail can be added to user stories in two ways:
+o By splitting a user story into multiple, smaller user stories.
+o By adding “conditions of satisfaction.”
+
+When a relatively large story is split into multiple, smaller
+agile user stories, it is natural to assume that detail has
+been added. After all, more has been written.
+
+The conditions of satisfaction is simply a high-level acceptance
+test that will be true after the agile user story is complete.
+Consider the following as another agile user story example:
+
+As a vice president of marketing, I want to select a holiday
+season to be used when reviewing the performance of past
+advertising campaigns so that I can identify profitable ones.
+
+Detail could be added to that user story example by adding the
+following conditions of satisfaction:
+
+o Make sure it works with major retail holidays: Christmas,
+  Easter, President’s Day, Mother’s Day, Father’s Day,
+  Labor Day, New Year’s Day.
+
+o Support holidays that span two calendar years (none span three).
+
+o Holiday seasons can be set from one holiday to the next (such
+  as Thanksgiving to Christmas).
+
+o Holiday seasons can be set to be a number of days prior to the holiday.
+
+
+
+
+Links
+=====
+User Stories
+Mountain Goat Software
+https://www.mountaingoatsoftware.com/agile/user-stories
