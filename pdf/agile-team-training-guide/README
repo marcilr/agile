@@ -15,5 +15,5 @@ agile-team-training-guide.pdf
   TekSystems
   Education Services
   Combined separate scans with:
-  pdftk cover.pdf 001-095.pdf 096-151.pdf 152-201.pdf \
+  pdftk cover-2.pdf 001-095.pdf 096-151.pdf 152-201.pdf \
   202-252.pdf back.pdf cat output agile-team-training.pdf
