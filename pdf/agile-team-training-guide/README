@@ -1,0 +1,19 @@
+README
+Created Wed Jan 24 10:44:57 AKST 2018
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+agile-team-training-guide.pdf
+  Scan of agile training guide 
+  from agile training August 7,8,9 2017 (I think)
+  Training and Education Services
+  Agile Team Training Camp
+  Agile Certified Professional
+  Participant Guide
+  TekSystems
+  Education Services
+  Combined separate scans with:
+  pdftk cover.pdf 001-095.pdf 096-151.pdf 152-201.pdf \
+  202-252.pdf back.pdf cat output agile-team-training.pdf
