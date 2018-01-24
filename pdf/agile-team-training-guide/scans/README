@@ -21,6 +21,13 @@ Filelist
 cover.pdf
   Scan of cover
 
+cover.png
+  Cover pdf converted to png with:
+  $ convert cover.pdf[0] cover.png
+
+cover.xcf
+  Gimp native format file for cover.png
+
 001-095.pdf
   First 94 pages after cover
 
