@@ -25,6 +25,10 @@ cover.png
   Cover pdf converted to png with:
   $ convert cover.pdf[0] cover.png
 
+cover-2.pdf
+  cover-2.png converted to pdf
+  convert cover-2.png cover-2.pdf
+
 cover-2.png
   Gimped cover.png
 
